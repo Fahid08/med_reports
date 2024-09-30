@@ -1,0 +1,1 @@
+Testing Capabilities of Whisper and LLM to check if Doctor's medical reports could be generated !
